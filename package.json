@@ -10,8 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/jpmjim/CScopeClosuresJS.git"
   },
-  "author": "j2mp",
-  "license": "ISC",
+  "author": "Jimmy Joel Pecho Malqui <jpmjim@gmail.com>",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/jpmjim/CScopeClosuresJS/issues"
   },

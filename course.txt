@@ -1,0 +1,4 @@
+Qué es el Scope y cómo funciona el Global Scope
+==================================================
+Es scope se define como el alcanze que puede tener la variable dentro del código, es el que se encargara de decir a que bloques de codigo va a acceder una variable.Tenemos Scope Local y Global.
+

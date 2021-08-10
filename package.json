@@ -1,0 +1,19 @@
+{
+  "name": "cscopeclosuresjs",
+  "version": "1.0.0",
+  "description": "Clases del Curso de Closures y Scope en JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpmjim/CScopeClosuresJS.git"
+  },
+  "author": "j2mp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpmjim/CScopeClosuresJS/issues"
+  },
+  "homepage": "https://github.com/jpmjim/CScopeClosuresJS#readme"
+}
